@@ -10,7 +10,8 @@
 <H3>
 </head>
 <body>
-<center><body background="https://s1.1zoom.me/b5050/342/Geometry_Texture_Blue_Light_Blue_White_background_586221_1366x768.jpg"></CENTER>
+	<link rel="stylesheet" href="estilo.css"
+<center>
 
 	<form method="post" action="calcular.php">
             <label><br>
